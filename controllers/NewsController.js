@@ -20,7 +20,6 @@ const store = (req,res) => {
       response:true
     })
   })
-
 }
 
 

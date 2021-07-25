@@ -50,7 +50,6 @@ const io = socket(server, {
 
 app.io = require('socket.io')();
 
-
   io.on("connect", (socket) => {
   console.log('user online')
 
